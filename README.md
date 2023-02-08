@@ -1,3 +1,5 @@
+# Copper Beacon Bases
+
 Allows players to use copper blocks as a beacon base
 
 Viable blocks are
