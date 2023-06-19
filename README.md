@@ -1,3 +1,6 @@
+> # Note
+> ## This datapack has been merged into [PurpurPacks](https://github.com/PurpurMC/PurpurPacks) and any future development on it will be done there
+
 
 # ![image](https://raw.githubusercontent.com/ADHDMC/Copper-beacon-bases/master/pack.png) Copper Beacon Bases 
 
